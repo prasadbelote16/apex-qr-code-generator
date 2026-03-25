@@ -7,6 +7,8 @@ This project demonstrates how to generate QR codes dynamically using Oracle APEX
 - Built using Oracle APEX
 - No external APIs used
 
+![Output](Application_file/apex.png)
+
 ## 🧠 How it works
 
 ```plsql
